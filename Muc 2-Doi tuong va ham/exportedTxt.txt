@@ -1,0 +1,7 @@
+"machines"	"shifts"	"productivity"
+"1"	"op1"	"sh.1"	324
+"2"	"op1"	"sh.2"	232
+"3"	"op2"	"sh.1"	454
+"4"	"op2"	"sh.2"	344
+"5"	"op3"	"sh.1"	435
+"6"	"op3"	"sh.2"	767
