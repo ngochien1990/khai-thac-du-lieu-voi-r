@@ -1,6 +1,8 @@
 # khai-thac-du-lieu-voi-r
 Tập dữ liệu kèm theo sách - KHAI THÁC DỮ LIỆU VỚI R
+
 [Chủ Biên: Nguyễn Ngọc Hiền-Email: n.nhien1990@gmail.com]
+
 [ORICD: https://orcid.org/0000-0003-4618-9462]
 
 LỜI MỞ ĐẦU
