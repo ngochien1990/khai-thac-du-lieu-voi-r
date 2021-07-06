@@ -1,11 +1,12 @@
 # khai-thac-du-lieu-voi-r
 Tập dữ liệu kèm theo sách - KHAI THÁC DỮ LIỆU VỚI R
 
-[Chủ Biên: Nguyễn Ngọc Hiền-Email: n.nhien1990@gmail.com]
+Chủ Biên: 
 
-[ORICD: https://orcid.org/0000-0003-4618-9462]
+[Nguyễn Ngọc Hiền-Email: n.nhien1990@gmail.com _ https://orcid.org/0000-0003-4618-9462]
 
 Đồng tác giả:
+
 [Huỳnh Hữu Nhân: https://orcid.org/0000-0002-8557-5908]
 
 [Phó Kim Hưngn: https://orcid.org/0000-0003-0410-8839]
