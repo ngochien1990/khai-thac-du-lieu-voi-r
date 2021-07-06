@@ -5,9 +5,14 @@ Tập dữ liệu kèm theo sách - KHAI THÁC DỮ LIỆU VỚI R
 
 [ORICD: https://orcid.org/0000-0003-4618-9462]
 
+Đồng tác giả:
+[Huỳnh Hữu Nhân: ]
+[Phó Kim Hưngn: ]
+[Nguyễn Tấn Cường: ]
+
 LỜI MỞ ĐẦU
 
-Phân tích dữ liệu là một trong các chủ đề được quan tâm và thu hút bạn đọc trên toàn thế giới. Điều này không quá khó để giải thích vì quá trình chuyển dữ liệu thô thành dữ liệu có thể dùng được. Từ đó, phân tích dữ liệu đưa ra kết luận khoa học là một quá trình không quá mới nhưng rất quan trọng. Các kỹ thuật phân tích dữ liệu ngày càng trở nên quan trọng hơn trong thời đại kỹ thuật số với sự bùng nổ của dữ liệu. Theo sự phát triển của xã hội, hiện nay  có rất nhiều công cụ hỗ trợ để phân tích dữ liệu, bao gồm cả phần mềm thương mại và mã nguồn mở.
+Phân tích dữ liệu là một trong các chủ đề được quan tâm và thu hút bạn đọc trên toàn thế giới. Bởi vì quá trình chuyển dữ liệu thô thành dữ liệu có thể dùng được và phân tích dữ liệu để đưa ra kết luận khoa học là rất quan trọng trong hầu hết các quyết định kinh tế và kỹ thuật. Các kỹ thuật phân tích dữ liệu ngày càng trở nên quan trọng hơn trong thời đại kỹ thuật số với sự bùng nổ của dữ liệu. Theo sự phát triển của khoa học kỹ thuật, hiện nay có rất nhiều công cụ hỗ trợ để phân tích dữ liệu, bao gồm cả phần mềm thương mại và mã nguồn mở.
 	
 R đem đến sự khác biệt lớn vì R là phần mềm với mã nguồn mở, hoàn toàn miễn phí, không bị ràng buộc về bản quyền, có rất nhiều tính năng phân tích dữ liệu từ thống kê cho đến tài chính, dự báo chuỗi thời gian và đặc biệt luôn được cập nhật từ các nhà nghiên cứu trên toàn thế giới, kể cả bạn đọc cũng có thể đóng góp vào sự phát triển của R. 
 	
