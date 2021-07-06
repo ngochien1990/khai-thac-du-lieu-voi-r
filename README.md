@@ -7,7 +7,9 @@ Tập dữ liệu kèm theo sách - KHAI THÁC DỮ LIỆU VỚI R
 
 Đồng tác giả:
 [Huỳnh Hữu Nhân: https://orcid.org/0000-0002-8557-5908]
+
 [Phó Kim Hưngn: https://orcid.org/0000-0003-0410-8839]
+
 [Nguyễn Tấn Cường: ]
 
 LỜI MỞ ĐẦU
