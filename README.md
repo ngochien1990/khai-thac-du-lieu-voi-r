@@ -8,7 +8,9 @@ Chủ Biên:
 Đồng tác giả:
 
 [Huỳnh Hữu Nhân: https://orcid.org/0000-0002-8557-5908]
+
 [Phó Kim Hưng: https://orcid.org/0000-0003-0410-8839]
+
 [Nguyễn Tấn Cường: https://orcid.org/0000-0003-4913-1995]
 
 LỜI MỞ ĐẦU
