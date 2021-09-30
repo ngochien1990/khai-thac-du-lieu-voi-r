@@ -1,2 +1,7 @@
-06, 2021: 
-        Hiện tại chưa có thay đổi và cập nhật nào liên quan đến nội dung sách
+30, Tháng 9 2021: 
+1> Chương 4. Biến ngẫu nhiên và phân phối xác suất > 4.2.2 Phân phối siêu bội (Hypergeometric distribution)
+        > Sửa đổi Trang 99 - Ví dụ minh họa: 
+        > "Anh Đức mua một lô hàng tồn kho gồm 10000 linh kiện điện tử: 8000 linh kiện đạt tiêu chuẩn kỹ thuật, 
+          2000 linh kiện không đạt tiêu chuẩn kỹ thuật. Anh Đức chọn ngẫu nhiên 10 linh kiện từ lô hàng. 
+          Tính xác suất để chọn được không quá 2 linh kiện không đạt tiêu chuẩn kỹ thuật."
+
