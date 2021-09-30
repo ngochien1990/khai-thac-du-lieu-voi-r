@@ -1,5 +1,8 @@
 # khai-thac-du-lieu-voi-r
 Tập dữ liệu kèm theo sách - KHAI THÁC DỮ LIỆU VỚI R
+[NHÀ XUẤT BẢN THANH NIÊN - ISBN: 978-604-334-956-6]
+[Đặt sách tại đây: https://forms.gle/tBGtse3ytxP84TYa8]
+
 
 Chủ Biên: 
 
@@ -12,6 +15,8 @@ Chủ Biên:
 [Phó Kim Hưng: https://orcid.org/0000-0003-0410-8839]
 
 [Nguyễn Tấn Cường: https://orcid.org/0000-0003-4913-1995]
+
+
 
 LỜI MỞ ĐẦU
 
