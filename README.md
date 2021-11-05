@@ -22,16 +22,24 @@ Thay vì nhấn mạnh vào lý thuyết thuần túy, nhóm tác giả trình b
 
 Quyển sách này không thể hoàn thành nếu không có nguồn tài liệu tham khảo phong phú từ các nhà nghiên cứu, các chuyên gia đã tạo ra các package nói riêng cũng như R nói chung. Ngoài ra, nhóm tác giả cũng cảm ơn các đồng nghiệp đã đóng góp ý kiến và giúp đỡ hoàn thiện quyển sách này. Sai sót là không thể tránh khỏi. Nhóm tác giả rất trân trọng và biết ơn những ý kiến đóng góp quý báu từ bạn đọc.
 
-******************
 Chương 1: Giới thiệu về phần mềm R
+
 Chương 2: Đối tượng và hàm
+
 Chương 3: Thống kê cơ bản
+
 Chương 4: Biến ngẫu nhiên và phân phối xác suất
+
 Chương 5: Biểu đồ 
+
 Chương 6: Kiểm định giả thuyết thống kê
+
 Chương 7: Phân tích phương sai
+
 Chương 8: Phân tích hồi quy
+
 Chương 9: Phương pháp Six Sigma
+
 Chương 10: Khai thác văn bản
 
 #### Nhóm tác giả
