@@ -1,5 +1,5 @@
 # Tập dữ liệu kèm theo sách: KHAI THÁC DỮ LIỆU VỚI R
-# [NHÀ XUẤT BẢN THANH NIÊN - ISBN: 978-604-334-956-6]
+### [NHÀ XUẤT BẢN THANH NIÊN - ISBN: 978-604-334-956-6]
 
 [Đặt sách tại đây: https://forms.gle/tBGtse3ytxP84TYa8]
 
@@ -17,8 +17,12 @@ Chủ Biên:
 [Nguyễn Tấn Cường: https://orcid.org/0000-0003-4913-1995]
 
 
+### Một số ựng dụng của R:
+1. Text mining: https://rpubs.com/ngochien1990/thesisgermany
+2. Data visualization: https://rpubs.com/ngochien1990/dataexplortationwithr
 
-LỜI MỞ ĐẦU
+
+## LỜI MỞ ĐẦU
 
 Phân tích dữ liệu là một trong các chủ đề được quan tâm và thu hút bạn đọc trên toàn thế giới. Bởi vì quá trình chuyển dữ liệu thô thành dữ liệu có thể dùng được và phân tích dữ liệu để đưa ra kết luận khoa học là rất quan trọng trong hầu hết các quyết định kinh tế và kỹ thuật. Các kỹ thuật phân tích dữ liệu ngày càng trở nên quan trọng hơn trong thời đại kỹ thuật số với sự bùng nổ của dữ liệu. Theo sự phát triển của khoa học kỹ thuật, hiện nay có rất nhiều công cụ hỗ trợ để phân tích dữ liệu, bao gồm cả phần mềm thương mại và mã nguồn mở.
 	
