@@ -1,22 +1,6 @@
 # Tập dữ liệu kèm theo sách: KHAI THÁC DỮ LIỆU VỚI R
 ### [NHÀ XUẤT BẢN THANH NIÊN - ISBN: 978-604-334-956-6]
 
-[Đặt sách tại đây: https://forms.gle/tBGtse3ytxP84TYa8]
-
-
-Chủ Biên: 
-
-[Nguyễn Ngọc Hiền-Email: n.nhien1990@gmail.com _ https://orcid.org/0000-0003-4618-9462]
-
-Đồng tác giả:
-
-[Huỳnh Hữu Nhân: https://orcid.org/0000-0002-8557-5908]
-
-[Phó Kim Hưng: https://orcid.org/0000-0003-0410-8839]
-
-[Nguyễn Tấn Cường: https://orcid.org/0000-0003-4913-1995]
-
-
 ### Một số ựng dụng của R:
 1. Text mining: https://rpubs.com/ngochien1990/thesisgermany
 2. Data visualization: https://rpubs.com/ngochien1990/dataexplortationwithr
@@ -37,3 +21,17 @@ Tuy nhiên, bạn đọc cần biết cách sử dụng mã nguồn (package), h
 Thay vì nhấn mạnh vào lý thuyết thuần túy, nhóm tác giả trình bày quyển sách “KHAI THÁC DỮ LIỆU VỚI R” theo cách mà bạn đọc có thể tham chiếu nhanh các lệnh thực thi cũng như ví dụ minh họa cho các nội dung phân tích dữ liệu phổ biến: Xử lý dữ liệu cơ bản, trực quan hóa dữ liệu với các biểu đồ thông dụng, kiểm định thống kê, phân tích phương sai, phân tích hồi quy, các kỹ thuật phân tích quy trình và chất lượng với Six Sigma, khai thác dữ liệu văn bản (text mining). 
 	
 Quyển sách này không thể hoàn thành nếu không có nguồn tài liệu tham khảo phong phú từ các nhà nghiên cứu, các chuyên gia đã tạo ra các package nói riêng cũng như R nói chung. Ngoài ra, nhóm tác giả cũng cảm ơn các đồng nghiệp đã đóng góp ý kiến và giúp đỡ hoàn thiện quyển sách này. Sai sót là không thể tránh khỏi. Nhóm tác giả rất trân trọng và biết ơn những ý kiến đóng góp quý báu từ bạn đọc.
+
+
+Chủ Biên: 
+
+[Nguyễn Ngọc Hiền-Email: n.nhien1990@gmail.com _ https://orcid.org/0000-0003-4618-9462]
+
+Đồng tác giả:
+
+[Huỳnh Hữu Nhân: https://orcid.org/0000-0002-8557-5908]
+
+[Phó Kim Hưng: https://orcid.org/0000-0003-0410-8839]
+
+[Nguyễn Tấn Cường: https://orcid.org/0000-0003-4913-1995]
+
