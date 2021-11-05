@@ -1,7 +1,7 @@
 # Tập dữ liệu kèm theo sách: KHAI THÁC DỮ LIỆU VỚI R
 ### [NHÀ XUẤT BẢN THANH NIÊN - ISBN: 978-604-334-956-6]
 
-### Một số ựng dụng của R:
+### Một số ựng dụng:
 1. Text mining: https://rpubs.com/ngochien1990/thesisgermany
 2. Data visualization: https://rpubs.com/ngochien1990/dataexplortationwithr
 
