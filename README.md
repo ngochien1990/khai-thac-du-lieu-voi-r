@@ -39,7 +39,9 @@ Chương 8: Phân tích hồi quy
 
 Chương 9: Phương pháp Six Sigma
 
-Chương 10: Khai thác văn bản
+Chương 10: Khai thác văn bản*
+
+*Tham khảo chương 10 tại đây: https://iads.site/a-detailed-guide-on-how-to-use-statistical-software-r-for-text-mining/
 
 #### Nhóm tác giả
 
