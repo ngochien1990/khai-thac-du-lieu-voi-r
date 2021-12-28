@@ -6,8 +6,7 @@
 2. Data visualization: https://rpubs.com/ngochien1990/dataexplortationwithr
 
 ### Đặt sách:
-1. On me: https://forms.gle/tBGtse3ytxP84TYa8
-2. Tiki: https://tiki.vn/khai-thac-du-lieu-voi-r-p121174018.html?spid=121174019
+1. Tiki: https://tiki.vn/khai-thac-du-lieu-voi-r-p121174018.html?spid=121174019
 
 
 ## LỜI MỞ ĐẦU
