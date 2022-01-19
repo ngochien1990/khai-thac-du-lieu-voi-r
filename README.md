@@ -57,3 +57,8 @@ Chủ Biên:
 
 [Nguyễn Tấn Cường: https://orcid.org/0000-0003-4913-1995]
 
+#### Sản phẩm hay ho khác
+
+Intelligent Assistant for Lean Six Sigma (LSS) Methods: https://play.google.com/store/apps/details?id=lean.helper.lssmethodsassistant
+
+Master Lean Six Sigma - Quiz: https://play.google.com/store/apps/details?id=org.leanhelper.mastersixsigma
