@@ -1,5 +1,5 @@
 # Tập dữ liệu kèm theo sách: KHAI THÁC DỮ LIỆU VỚI R
-### [NHÀ XUẤT BẢN THANH NIÊN - ISBN: 978-604-334-956-6]
+### [NHÀ XUẤT BẢN THANH NIÊN - ISBN: 9786043349566]
 
 ### Một số ựng dụng:
 1. Text mining: https://rpubs.com/ngochien1990/thesisgermany
