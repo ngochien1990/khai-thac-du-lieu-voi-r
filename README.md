@@ -4,10 +4,10 @@
 ### Một số ựng dụng:
 1. Text mining: https://rpubs.com/ngochien1990/thesisgermany
 2. Data visualization: https://rpubs.com/ngochien1990/dataexplortationwithr
+3. Basic data analysis with R: https://rpubs.com/ngochien1990/basicdataanalysiswithr
 
 ### Đặt sách:
 1. Tiki: https://tiki.vn/khai-thac-du-lieu-voi-r-p121174018.html?spid=121174019
-
 
 ## LỜI MỞ ĐẦU
 
