@@ -4,7 +4,7 @@
 ### Một số ựng dụng:
 1. Text mining: https://rpubs.com/ngochien1990/thesisgermany
 2. Data Exploration with R: https://rpubs.com/ngochien1990/dataexplortationwithr
-3. Basic data analysis with R: https://rpubs.com/ngochien1990/basicdataanalysiswithr
+3. Khai thác dữ liệu cơ bản với R: https://rpubs.com/ngochien1990/basicdataanalysiswithr
 4. Expert survey with Analytical Hierarchy Process: https://data.mendeley.com/datasets/7brkgztjdx/3
 
 ### Đặt sách:
