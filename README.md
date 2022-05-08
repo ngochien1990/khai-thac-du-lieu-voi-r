@@ -7,7 +7,7 @@
 3. **Khai thác dữ liệu cơ bản với R: https://rpubs.com/ngochien1990/basicdataanalysiswithr
 4. Expert survey with Analytical Hierarchy Process: https://data.mendeley.com/datasets/7brkgztjdx/3
 
-**Xem file (.zip) đính kèm (RStudio for Presentation.zip)
+**Xem file (.zip) đính kèm (RStudio for Presentation.zip) -- Tuy nhiên, bạn cũng có thể chạy các code trên RGui (R Console)
 
 ### Đặt sách:
 1. Tiki: https://tiki.vn/khai-thac-du-lieu-voi-r-p121174018.html?spid=121174019
