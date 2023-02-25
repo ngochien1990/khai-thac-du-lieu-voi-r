@@ -66,3 +66,6 @@ Chủ Biên:
 Intelligent Assistant for Lean Six Sigma (LSS) Methods: https://play.google.com/store/apps/details?id=lean.helper.lssmethodsassistant
 
 Master Lean Six Sigma - Quiz: https://play.google.com/store/apps/details?id=org.leanhelper.mastersixsigma
+
+Khóa học trực tuyến Lean Six Sigma Cấp độ Đai Trắng (White Belt): https://unica.vn/ung-dung-lean-six-sigma-trong-cai-tien-san-xuat-va-dich-vu-cap-do-dai-trang-white-belt?aff=651035
+
