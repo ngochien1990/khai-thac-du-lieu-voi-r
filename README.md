@@ -8,8 +8,6 @@
 4. Expert survey with Analytical Hierarchy Process: https://data.mendeley.com/datasets/7brkgztjdx/3. Nguyen, H.N., Lasa, G., Iriarte, I. et al. Datasets of skills-rating questionnaires for advanced service design through expert knowledge elicitation. Sci Data 9, 321 (2022). https://doi.org/10.1038/s41597-022-01421-3
 5. Mendeley data: Nguyen Ngoc, Hien; Lasa, Ganix; Iriarte, Ion; Atxa, Ariane ; Unamuno, Gorka; Galfarsoro , Gurutz  (2022), “Expert evaluation: Datasets of skill-rating questionnaires for advanced service design through Analytical Hierarchy Process”, Mendeley Data, V3, doi: [10.17632/7brkgztjdx.3](https://doi.org/10.17632/7brkgztjdx.3)
 
-**Xem file (.zip) đính kèm (RStudio for Presentation.zip) -- Tuy nhiên, bạn cũng có thể chạy các code trên RGui (R Console)
-
 ### Đặt sách:
 1. Tiki: https://tiki.vn/khai-thac-du-lieu-voi-r-p121174018.html?spid=121174019
 
